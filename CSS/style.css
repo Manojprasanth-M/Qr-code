@@ -17,18 +17,21 @@ body {
 }
 
 .box {
-  width: 200px;
+  width: 230px;
   background-color: hsl(0, 0%, 100%);
-  height: 310px;
+  height: 360px;
   margin: 9% auto;
   border-radius: 10px;
 }
 
 .qr {
-  width: 180px;
+  width: 210px;
   margin: 0 auto;
-  padding: 9px;
+  padding: 10px;
   border-radius: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 
 }
 
@@ -38,19 +41,18 @@ body {
 
 .al {
   margin: 0 15px;
-  font-size: 0.93em;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  font-size: 1.0em;
+  text-align: center;
   color: hsl(218, 44%, 22%);
 }
 
 .a2 {
-  font-size: 0.625em;
-  margin: 6px 15px;
+  font-size: 0.7em;
+  margin: 10px 15px;
   padding: 3px;
   display: flex;
   justify-content: center;
   align-items: center;
+  text-align: center;
   color: hsl(220, 15%, 55%);
 }
