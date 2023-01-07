@@ -17,9 +17,9 @@ body {
 }
 
 .box {
-  width: 230px;
+  width: 100vw;
   background-color: hsl(0, 0%, 100%);
-  height: 360px;
+  height: 100vh;
   margin: 9% auto;
   border-radius: 10px;
 }
