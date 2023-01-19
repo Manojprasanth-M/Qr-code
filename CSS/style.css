@@ -17,15 +17,15 @@ body {
 }
 
 .box {
-  width: 11vw;
+  width: 19vw;
   background-color: hsl(0, 0%, 100%);
-  height: 41vh;
+  height: 64vh;
   margin: 9% auto;
   border-radius: 10px;
 }
 
 .qr {
-  width: 210px;
+  width: 17vw;
   margin: 0 auto;
   padding: 10px;
   border-radius: 20px;
@@ -41,13 +41,13 @@ body {
 
 .al {
   margin: 0 15px;
-  font-size: 1.0em;
+  font-size: 0.8rem;
   text-align: center;
   color: hsl(218, 44%, 22%);
 }
 
 .a2 {
-  font-size: 0.7em;
+  font-size: 0.6em;
   margin: 10px 15px;
   padding: 3px;
   display: flex;
