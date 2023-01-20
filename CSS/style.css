@@ -4,6 +4,7 @@ body {
   background-color: hsl(212, 45%, 89%);
   margin: 0;
   padding: 0;
+  width: 100vw;
   font-family: 'Outfit', sans-serif;
 }
 
@@ -35,14 +36,14 @@ body {
 
 }
 
-.txt1 {
+/* .txt1 {
   margin: 0 auto;
-}
+} */
 
 .al {
  
   margin: 1em;
-  font-size: 1.25em;
+  font-size: 0.8em;
   text-align: center;
   font-weight: 700;
   color: hsl(218, 44%, 22%);
@@ -50,7 +51,7 @@ body {
 
 .a2 {
   font-size: 0.6em;
-  margin: 0 1em 1em 0;
+  margin: 1em ;
   padding: 3px;
   text-align: center;
   color: hsl(220, 15%, 55%);
